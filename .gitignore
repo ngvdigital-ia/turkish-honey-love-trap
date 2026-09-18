@@ -3,3 +3,4 @@
 _capture/
 _shots/
 *.log
+.vercel
