@@ -1,0 +1,5 @@
+.vercel/
+.env*
+_capture/
+_shots/
+*.log
